@@ -9,3 +9,7 @@
 ---
 
 ## :gift: My progress :gift:
+|#|| Day 1 |
+| ------------- |
+Part I | :star:  |
+Part II| :star: | 
