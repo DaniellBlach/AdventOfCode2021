@@ -10,7 +10,7 @@
 
 ## :gift: My progress :gift:
 
-| #          |Day I|Day II|Day III|Day III| 
+| #          |Day I|Day II|Day III|Day IV| 
 | ---------- |:----:|:----:|:----:|:----:|
 | Part I     | ⭐ | ⭐ | ⭐ | ⭐ |
 | Part II    | ⭐ | ⭐ | ⭐ | ⭐ |
