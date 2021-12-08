@@ -4,7 +4,7 @@
 
 ---
 
-:christmas_tree:This is my first attepmt in this event. The langauge I will use is **Python**.:christmas_tree:
+:christmas_tree:This is my first attepmt in this event. I'm using **Python**.:christmas_tree:
 
 ---
 
