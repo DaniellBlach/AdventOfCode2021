@@ -4,14 +4,14 @@
 
 ---
 
-:christmas_tree:This is my first attepmt in this event. The langauge I will use is **Python**.:christmas_tree:
+:christmas_tree:This is my first attepmt in this event. I'm using **Python**.:christmas_tree:
 
 ---
 
 ## :gift: My progress :gift:
 
-| #          | Day I|Day II| Day III| 
-| ---------- |:----:|:----:|:----:|
-| Part I     | ⭐ | ⭐ | ⭐ |
-| Part II    | ⭐ | ⭐ | ⭐ |
+| #          |Day I|Day II|Day III|Day IV| 
+| ---------- |:----:|:----:|:----:|:----:|
+| Part I     | ⭐ | ⭐ | ⭐ | ⭐ |
+| Part II    | ⭐ | ⭐ | ⭐ | ⭐ |
 
