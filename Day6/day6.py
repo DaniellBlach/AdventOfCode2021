@@ -47,4 +47,4 @@ for j in range(1, 257):
             tempList[i - 1] = shoal(sh.howManyFishes)
     shoals = tempList
 
-print("Output of the first part: ", sum([shoal.howManyFishes for shoal in shoals]))
+print("Output of the second part: ", sum([shoal.howManyFishes for shoal in shoals]))
