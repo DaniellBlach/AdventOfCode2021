@@ -12,11 +12,11 @@
 
 | #          |Day I|Day II|Day III|Day IV| Day V|Day VI|Day VII|Day VIII|Day IX|Day X|
 | ---------- |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| Part 1     | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ |⭐ |
-| Part 2     | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ |   | ⭐ |
+| Part 1   | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ |⭐ |
+| Part 2   | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ |   | ⭐ |
 | #          |Day XI|Day XII|Day XIII|Day XIV| Day XV|Day XVI|Day XVII|Day XVIII|Day XIX|Day XX|
-| Part 1     |  |  |  |  |  |  |  |  |  | |
-| Part 2     |  |  |  |  |  |  |  |  |  | |
+| Part 1   |  |  |  |  |  |  |  |  |  | |
+| Part 2   |  |  |  |  |  |  |  |  |  | |
 | #          |Day XXI|Day XXII|Day XXIII|Day XXIV| Day XXV|
-| Part 1     |  |  |  |  |  |
-| Part 2     |  |  |  |  |  |
+| Part 1   |  |  |  |  |  |
+| Part 2   |  |  |  |  |  |
