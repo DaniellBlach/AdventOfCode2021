@@ -17,3 +17,6 @@
 | #          |Day XI|Day XII|Day XIII|Day XIV| Day XV|Day XVI|Day XVII|Day XVIII|Day XIX|Day XX|
 | Part I     |  |  |  |  |  |  |  |  |  | |
 | Part II    |  |  |  |  |  |  |  |  |  | |
+| #          |Day XXI|Day XXII|Day XXIII|Day XXIV| Day XXV|
+| Part I     |  |  |  |  |  |
+| Part II    |  |  |  |  |  |
