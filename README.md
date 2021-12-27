@@ -15,6 +15,5 @@
 | Part I     | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ |⭐ |
 | Part II    | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ | ⭐ |   | ⭐ |
 | #          |Day XI|Day XII|Day XIII|Day XIV| Day XV|Day XVI|Day XVII|Day XVIII|Day XIX|Day XX|
-| ---------- |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | Part I     |  |  |  |  |  |  |  |  |  | |
 | Part II    |  |  |  |  |  |  |  |  |  | |
